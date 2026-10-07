@@ -24,3 +24,5 @@ gcc -o ejemplo1 ejemplo1.c
 * Retorna 0 en el proceso hijo.
 * Retorna el PID del hijo en el proceso padre.
 * Retorna -1 si ocurre un error.
+## Trabajo realizado por: 
+Alumno: Carrasco Pérez Andrés 06/10/26
