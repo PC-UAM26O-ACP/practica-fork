@@ -16,11 +16,11 @@ Para compilar y ejecutar estos archivos necesitas un compilador de C (como `gcc`
 ### Compilar un archivo
 bash
 gcc -o ejemplo1 ejemplo1.c
-###Ejecutar
+### Ejecutar
 ./ejemplo1
 
-##Conceptos Clave:
-* **`fork()`Duplicar el proceso actual.
-* **Retorna 0 en el proceso hijo.
-* **Retorna el PID del hijo en el proceso padre.
-* **Retorna -1 si ocurre un error.
+## Conceptos Clave:
+* `fork()`Duplicar el proceso actual.
+* Retorna 0 en el proceso hijo.
+* Retorna el PID del hijo en el proceso padre.
+* Retorna -1 si ocurre un error.
